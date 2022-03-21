@@ -1,6 +1,5 @@
 <template>
-  <nav></nav>
-  <router-view />
+  <div>login</div>
 </template>
 
 <style lang="scss">
